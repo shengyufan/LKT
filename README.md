@@ -7,3 +7,7 @@ x,y,term1 weight1,term2 weight2,term2 weight2,...
 **Query Format**
 
 x',y',key1 key2 ...
+
+**Fanout**
+
+The threshold value when initializing Node (Node.cpp)
